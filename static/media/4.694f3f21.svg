@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="_4" data-name="4" transform="translate(-0.229 0.057)">
+    <rect id="Background" width="65" height="65" rx="16" transform="translate(0.229 -0.057)" fill="#df4949"/>
+    <g id="Bookmark" transform="translate(21.228 18.443)">
+      <rect id="Rectangle_719" data-name="Rectangle 719" width="16" height="5" transform="translate(3 7)" fill="rgba(255,255,255,0.4)"/>
+      <path id="Bookmark-2" data-name="Bookmark" d="M21.541,28a1.5,1.5,0,0,1-.74-.2l-9.315-4.536L2.156,27.8a1.559,1.559,0,0,1-.7.182A1.441,1.441,0,0,1,0,26.557V5.306A4.6,4.6,0,0,1,2.066,1.225,9.03,9.03,0,0,1,7.043,0h8.87A9.069,9.069,0,0,1,20.9,1.225,4.669,4.669,0,0,1,23,5.306V26.557a1.432,1.432,0,0,1-.173.686,1.476,1.476,0,0,1-.891.7A1.37,1.37,0,0,1,21.541,28ZM6.066,8.456a1.106,1.106,0,1,0,0,2.211H16.89a1.106,1.106,0,1,0,0-2.211Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

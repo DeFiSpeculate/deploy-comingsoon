@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="_2" data-name="2" transform="translate(-0.486 0.057)">
+    <rect id="Background" width="65" height="65" rx="16" transform="translate(0.486 -0.057)" fill="#47a432"/>
+    <g id="Category" transform="translate(18.743 18.247)">
+      <path id="Fill_1" data-name="Fill 1" d="M8.322,0H3.57A3.591,3.591,0,0,0,0,3.6V8.392a3.582,3.582,0,0,0,3.57,3.6H8.322a3.573,3.573,0,0,0,3.57-3.6V3.6A3.582,3.582,0,0,0,8.322,0Z" fill="#fff"/>
+      <path id="Fill_4" data-name="Fill 4" d="M8.322,0H3.57A3.583,3.583,0,0,0,0,3.6V8.392a3.591,3.591,0,0,0,3.57,3.6H8.322a3.582,3.582,0,0,0,3.57-3.6V3.6A3.574,3.574,0,0,0,8.322,0Z" transform="translate(0 16.123)" fill="#fff"/>
+      <path id="Fill_7" data-name="Fill 7" d="M8.322,0H3.57A3.582,3.582,0,0,0,0,3.6V8.392a3.573,3.573,0,0,0,3.57,3.6H8.322a3.582,3.582,0,0,0,3.57-3.6V3.6A3.591,3.591,0,0,0,8.322,0Z" transform="translate(16.222)" fill="rgba(255,255,255,0.4)"/>
+      <path id="Fill_9" data-name="Fill 9" d="M8.322,0H3.57A3.574,3.574,0,0,0,0,3.6V8.392a3.582,3.582,0,0,0,3.57,3.6H8.322a3.591,3.591,0,0,0,3.57-3.6V3.6A3.583,3.583,0,0,0,8.322,0Z" transform="translate(16.222 16.123)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
